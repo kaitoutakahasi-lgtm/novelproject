@@ -1,0 +1,272 @@
+{
+  "metadata": {
+    "description": "タイムライン管理",
+    "lastUpdated": "2026-01-22",
+    "calendarType": "royal_calendar",
+    "range": { "start": 522, "end": 545 }
+  },
+  "events": [
+    {
+      "year": 223,
+      "season": "spring",
+      "type": "historical",
+      "description": "エルドラシア魔導王国滅亡、ルシウス封印",
+      "characters": ["ルシウス", "アルトゥス"]
+    },
+    {
+      "year": 509,
+      "season": null,
+      "type": "historical",
+      "description": "エルヴィン誕生",
+      "characters": ["エルヴィン"]
+    },
+    {
+      "year": 520,
+      "season": null,
+      "type": "world",
+      "description": "ヴェルナント-ザルヴァトール国境紛争開始",
+      "characters": []
+    },
+    {
+      "year": 522,
+      "season": "spring",
+      "type": "chapter",
+      "chapter": 1,
+      "description": "物語開始、エルヴィン13歳、戦争の噂が遠い話として聞こえる",
+      "characters": ["エルヴィン"]
+    },
+    {
+      "year": 522,
+      "season": "spring",
+      "type": "world",
+      "description": "ザルヴァトール帝国が宣戦布告",
+      "characters": []
+    },
+    {
+      "year": 522,
+      "season": "autumn",
+      "type": "world",
+      "description": "東部で徴兵開始（16歳以上）",
+      "characters": []
+    },
+    {
+      "year": 523,
+      "season": "spring",
+      "type": "world",
+      "description": "徴兵年齢15歳に引き下げ、エルヴィン14歳に",
+      "characters": ["エルヴィン"]
+    },
+    {
+      "year": 523,
+      "season": "summer",
+      "type": "world",
+      "description": "徴兵年齢14歳に引き下げ、エルヴィン対象に",
+      "characters": ["エルヴィン"]
+    },
+    {
+      "year": 523,
+      "season": "autumn",
+      "type": "chapter",
+      "chapter": 2,
+      "description": "第2章：1年半の時間経過を描写（522春〜523秋）",
+      "characters": ["エルヴィン", "アリシア", "レオン"]
+    },
+    {
+      "year": 523,
+      "season": "autumn",
+      "type": "chapter",
+      "chapter": 3,
+      "description": "徴兵令状、エルヴィン14歳",
+      "characters": ["エルヴィン"]
+    },
+    {
+      "year": 523,
+      "season": "autumn",
+      "type": "chapter",
+      "chapter": 4,
+      "description": "旅立ち、家族との別れ",
+      "characters": ["エルヴィン", "レオン"]
+    },
+    {
+      "year": 523,
+      "season": "autumn",
+      "type": "chapter",
+      "chapter": 5,
+      "description": "野営地、ガレスとの出会い",
+      "characters": ["エルヴィン", "レオン", "ガレス"]
+    },
+    {
+      "year": 523,
+      "season": "autumn",
+      "type": "chapter",
+      "chapter": 6,
+      "description": "ルシウスとの契約",
+      "characters": ["エルヴィン", "ルシウス"]
+    },
+    {
+      "year": 523,
+      "season": "winter",
+      "type": "chapter",
+      "chapter": 7,
+      "description": "初陣、初憑依",
+      "characters": ["エルヴィン", "ルシウス"]
+    },
+    {
+      "year": 523,
+      "season": "winter",
+      "type": "chapter",
+      "chapter": 8,
+      "description": "初めて人を殺す",
+      "characters": ["エルヴィン"]
+    },
+    {
+      "year": 524,
+      "season": "spring",
+      "type": "chapter",
+      "chapter": 10,
+      "description": "大会戦、レオン死亡、エルヴィン15歳",
+      "characters": ["エルヴィン", "レオン"]
+    },
+    {
+      "year": 524,
+      "season": "summer",
+      "type": "chapter",
+      "chapter": 11,
+      "description": "「英雄」の誕生、エルヴィン15歳",
+      "characters": ["エルヴィン"]
+    },
+    {
+      "year": 525,
+      "season": null,
+      "type": "chapter",
+      "chapter": 12,
+      "description": "第三部開始、エルヴィン16歳",
+      "characters": ["エルヴィン"]
+    },
+    {
+      "year": 531,
+      "season": null,
+      "type": "chapter",
+      "chapter": 17,
+      "description": "ガレス失脚、エルヴィン21歳",
+      "characters": ["エルヴィン", "ガレス"]
+    },
+    {
+      "year": 532,
+      "season": null,
+      "type": "chapter",
+      "chapter": 18,
+      "description": "第四部開始、マクシミリアンの側近に、エルヴィン22歳",
+      "characters": ["エルヴィン", "マクシミリアン"]
+    },
+    {
+      "year": 533,
+      "season": null,
+      "type": "chapter",
+      "chapter": 20,
+      "description": "アリシアとの再会",
+      "characters": ["エルヴィン", "アリシア"]
+    },
+    {
+      "year": 535,
+      "season": null,
+      "type": "chapter",
+      "chapter": 23,
+      "description": "アリシアへのプロポーズ、エルヴィン25歳",
+      "characters": ["エルヴィン", "アリシア"]
+    },
+    {
+      "year": 536,
+      "season": null,
+      "type": "chapter",
+      "chapter": 24,
+      "description": "第五部開始、エルヴィン26歳",
+      "characters": ["エルヴィン"]
+    },
+    {
+      "year": 538,
+      "season": null,
+      "type": "chapter",
+      "chapter": 29,
+      "description": "最低点到達、エルヴィン28歳",
+      "characters": ["エルヴィン"]
+    },
+    {
+      "year": 539,
+      "season": null,
+      "type": "chapter",
+      "chapter": 30,
+      "description": "第六部開始、エルヴィン29歳",
+      "characters": ["エルヴィン"]
+    },
+    {
+      "year": 540,
+      "season": "autumn",
+      "type": "chapter",
+      "chapter": 32,
+      "description": "アルトゥスの日記発見",
+      "characters": ["エルヴィン"]
+    },
+    {
+      "year": 542,
+      "season": null,
+      "type": "chapter",
+      "chapter": 35,
+      "description": "アリシアへの告白",
+      "characters": ["エルヴィン", "アリシア"]
+    },
+    {
+      "year": 543,
+      "season": null,
+      "type": "chapter",
+      "chapter": 37,
+      "description": "第七部開始、エルヴィン33歳",
+      "characters": ["エルヴィン"]
+    },
+    {
+      "year": 544,
+      "season": null,
+      "type": "chapter",
+      "chapter": 40,
+      "description": "マクシミリアンとの決着、マクシミリアン死亡",
+      "characters": ["エルヴィン", "マクシミリアン"]
+    },
+    {
+      "year": 545,
+      "season": null,
+      "type": "chapter",
+      "chapter": 42,
+      "description": "ルシウスとの別れ",
+      "characters": ["エルヴィン", "ルシウス"]
+    },
+    {
+      "year": 545,
+      "season": null,
+      "type": "chapter",
+      "chapter": 43,
+      "description": "最終決戦、戦争終結",
+      "characters": ["エルヴィン"]
+    },
+    {
+      "year": 545,
+      "season": "autumn",
+      "type": "epilogue",
+      "description": "エピローグ、灰色の人間としての受容",
+      "characters": ["エルヴィン", "アリシア"]
+    }
+  ],
+  "ageReference": {
+    "elvin": {
+      "birthYear": 509,
+      "ageByChapter": {
+        "1": 13, "2": "13-14", "3": 14, "4": 14, "5": 14, "6": 14,
+        "7": 14, "8": 14, "9": 14, "10": 15, "11": 15,
+        "12": 16, "13": 18, "14": 20, "15": 21, "16": 21, "17": 22,
+        "18": 23, "19": 24, "20": 24, "21": 25, "22": 26, "23": 26,
+        "24": 27, "25": 28, "26": 28, "27": 29, "28": 29, "29": 29,
+        "30": 30, "31": 31, "32": 31, "33": 32, "34": 32, "35": 33, "36": 33,
+        "37": 34, "38": 34, "39": 34, "40": 34, "41": 34, "42": 34, "43": 34
+      }
+    }
+  }
+}
