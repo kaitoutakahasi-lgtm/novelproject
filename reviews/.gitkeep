@@ -1,0 +1,11 @@
+# 推敲ログ・評価器出力置き場
+
+Phase 7 で `arcNN_chMM_review.md` 形式で保存。
+
+chapter-reviewer エージェントが自動的に以下を集約:
+
+- eval-voice スコアと違反引用
+- eval-canon の矛盾報告
+- eval-catharsis のカタルシス判定
+
+加えて総合評価 A/B/C/D と改稿必須箇所リスト、次章への申し送り。

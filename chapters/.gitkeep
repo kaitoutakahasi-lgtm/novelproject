@@ -1,0 +1,24 @@
+# 本文置き場
+
+Phase 7 で `arc01/ch01.md` 以降を執筆。
+
+章ヘッダー規格:
+
+```
+---
+arc: NN
+chapter: MM
+title:
+povkeiko: 主人公
+location:
+era_year:
+protagonist_age:
+characters: []
+foreshadow_set: []
+foreshadow_resolve: []
+---
+
+# 第MM章 「[タイトル]」
+
+[本文]
+```
